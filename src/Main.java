@@ -17,9 +17,9 @@ public class Main {
     }
     public static String hello(String name) {
         if (name.isEmpty()) {
-            name = "World!";
+            name = "World";
         }
-        return ("Hello " + name);
+        return ("Hello " + name + "!");
     }
 
 }
