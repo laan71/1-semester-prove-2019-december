@@ -57,7 +57,7 @@ public class Loops {
     }
 
     // Indlæs tal så længe tallet ikke er 0 vha en while løkke
-    
+
     public void waitingFor0() {
 
         int i = 25;
